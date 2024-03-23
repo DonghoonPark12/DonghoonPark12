@@ -12,4 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonghoonPark12&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Donghp)](https://solved.ac/Donghp/) 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/6JoE8gjtQ)
+
+
+
